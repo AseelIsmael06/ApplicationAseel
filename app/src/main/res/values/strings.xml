@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicationAseel</string>
+    <string-array name="spCat">
+        <item>Skin</item>
+        <item>Eyes</item>
+        <item>EyeBrows</item>
+    </string-array>
+</resources>
